@@ -1,0 +1,2 @@
+# AI-Urban-Green-Space-Analysis-and-Sustainability-Report
+The urban green space assessment using satellite data, machine learning classification, and sentiment analysis on relevant research. The project leverages Sentinel Hub imagery, OpenStreetMap green space data, and NASA climate data to generate insights on urban sustainability, accompanied by AI-generated structured reports and visualizations.
